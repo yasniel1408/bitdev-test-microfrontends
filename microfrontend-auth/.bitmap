@@ -9,5 +9,12 @@
  */
 
 {
+    "auth-component": {
+        "name": "auth-component",
+        "scope": "my-org-microfrontend.my-scope",
+        "version": "0.0.1",
+        "mainFile": "index.ts",
+        "rootDir": "my-scope/auth-component"
+    },
     "$schema-version": "17.0.0"
 }

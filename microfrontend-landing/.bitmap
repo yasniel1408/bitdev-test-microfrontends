@@ -9,5 +9,12 @@
  */
 
 {
+    "landing-component": {
+        "name": "landing-component",
+        "scope": "my-org-microfrontend.my-scope",
+        "version": "0.0.1",
+        "mainFile": "index.ts",
+        "rootDir": "my-scope/landing-component"
+    },
     "$schema-version": "17.0.0"
 }

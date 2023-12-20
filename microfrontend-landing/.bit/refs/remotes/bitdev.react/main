@@ -1,0 +1,23 @@
+[
+  {
+    "id": {
+      "scope": "bitdev.react",
+      "name": "react-env"
+    },
+    "head": "1d783c5dde7f4f040135ed7e07618cc542328836"
+  },
+  {
+    "id": {
+      "scope": "bitdev.react",
+      "name": "generators/react-templates"
+    },
+    "head": "118f5dc2369908f9050b3b40cf503ccccb801ce8"
+  },
+  {
+    "id": {
+      "scope": "bitdev.react",
+      "name": "webpack/refresh-overlay"
+    },
+    "head": "b6675fdbe31d1de523cb0d18492e759e553e86e9"
+  }
+]

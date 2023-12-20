@@ -1,0 +1,9 @@
+[
+  {
+    "id": {
+      "scope": "my-org-microfrontend.my-scope",
+      "name": "landing-component"
+    },
+    "head": "59a19442a38544e03df2577d86a20c4e2aec2393"
+  }
+]
