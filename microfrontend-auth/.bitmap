@@ -12,7 +12,7 @@
     "auth-component": {
         "name": "auth-component",
         "scope": "my-org-microfrontend.my-scope",
-        "version": "0.0.1",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "my-scope/auth-component"
     },

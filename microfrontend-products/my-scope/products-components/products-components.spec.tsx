@@ -4,6 +4,6 @@ import { BasicProductsComponents } from './products-components.composition';
 
 it('renders with the correct text', () => {
   const { getByText } = render(<BasicProductsComponents />);
-  const rendered = getByText('hello world!');
+  const rendered = getByText('Página de Productos');
   expect(rendered).toBeTruthy();
 });
