@@ -1,0 +1,16 @@
+[
+  {
+    "id": {
+      "scope": "learnbit-react.module-federation",
+      "name": "envs/mf-host-env"
+    },
+    "head": "8bcc507d56d586ef5b010225f42a167197abaa4a"
+  },
+  {
+    "id": {
+      "scope": "learnbit-react.module-federation",
+      "name": "webpack-transformers/mf-host-transformer"
+    },
+    "head": "147987feb6fcd2a9d7981a73d93f3353f3f22760"
+  }
+]

@@ -1,0 +1,3 @@
+2023-12-21-11-50-17 adding my-org-microfrontend.my-scope/apps/host-app
+2023-12-21-12-1-42 adding my-org-microfrontend.my-scope/webpack-transformers/mf-remote-transformer
+2023-12-21-12-12-20 tag (message: N/A)
