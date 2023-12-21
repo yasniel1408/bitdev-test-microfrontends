@@ -1,3 +1,4 @@
-2023-12-21-11-50-17 adding my-org-microfrontend.my-scope/apps/host-app
-2023-12-21-12-1-42 adding my-org-microfrontend.my-scope/webpack-transformers/mf-remote-transformer
-2023-12-21-12-12-20 tag (message: N/A)
+2023-12-21-12-42-5 adding my-org-microfrontend.my-scope/apps/host-app
+2023-12-21-12-42-46 adding my-org-microfrontend.my-scope/webpack-transformers/mf-host-transformer
+2023-12-21-12-43-15 adding my-org-microfrontend.my-scope/webpack-transformers/mf-remote-transformer
+2023-12-21-12-43-29 adding my-org-microfrontend.my-scope/envs/mf-host-env

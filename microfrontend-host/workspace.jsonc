@@ -56,6 +56,11 @@
         "@learnbit-react/module-federation.envs.mf-host-env": "0.0.13",
         "@learnbit-react/module-federation.webpack-transformers.mf-host-transformer": "0.0.18",
         "@teambit/cloud-providers.deployers.netlify": "0.1.25",
+        "@teambit/docs.docs-template": "1.0.4",
+        "@teambit/preview.react-preview": "1.0.23",
+        "@teambit/react.apps.react-app-types": "1.0.19",
+        "@teambit/react.mounter": "1.0.3",
+        "@teambit/react.react-env": "1.0.32",
         "webpack": "5.89.0"
       },
       "peerDependencies": {}

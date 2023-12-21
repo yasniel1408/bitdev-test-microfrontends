@@ -1,0 +1,1 @@
+[{"name":"","description":"this webpack transformer changes the output bundle to a module federation host app.\nit is used here for the app’s component preview","args":[],"returns":{},"access":"public","examples":[],"render":"","properties":[],"static":false,"filePath":"my-react-env.bit-env.ts"}]

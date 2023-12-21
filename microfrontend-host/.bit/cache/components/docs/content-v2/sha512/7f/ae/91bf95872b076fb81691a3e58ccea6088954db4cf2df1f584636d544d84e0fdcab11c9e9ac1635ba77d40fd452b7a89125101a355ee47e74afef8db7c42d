@@ -1,0 +1,1 @@
+[{"name":"","description":"a list of peer dependencies (to load by this host app, and not by any other remote app).","args":[],"returns":{},"access":"public","examples":[],"render":"","properties":[],"static":false,"filePath":"mf-host-transformer.ts"}]
